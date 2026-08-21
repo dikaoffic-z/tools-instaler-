@@ -23,7 +23,7 @@ Script Bash interaktif untuk menginstall **proot-distro Ubuntu** dan **OpenCode*
 ```bash
 # Di Termux
 pkg update && pkg install git -y
-git clone https://github.com/username/tools-instaler-.git ~/tools-instaler
+git clone https://github.com/dikaoffic-z/tools-instaler-.git ~/tools-instaler
 cd ~/tools-instaler
 ```
 
